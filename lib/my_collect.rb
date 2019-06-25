@@ -8,3 +8,4 @@ def my_collect(collection)
   collection_new
 end
 
+collection = ['ruby', 'javascript', 'python', 'objective-c']
