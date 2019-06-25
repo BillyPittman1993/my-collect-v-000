@@ -1,3 +1,3 @@
-def my_collection(collection)
+def my_collect(collection)
   
 end
